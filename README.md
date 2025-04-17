@@ -1,4 +1,4 @@
-# Food Delivery Website
+# Food Delivery WebApp using MERN stack
 
 A full-stack food delivery application built on the **MERN stack** (MongoDB, Express.js, React, Node.js). This project allows users to browse restaurants, add food items to their cart, and place orders seamlessly.
 
